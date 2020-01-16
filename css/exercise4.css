@@ -9,14 +9,8 @@ header{
     font-size: 50px
     
 }
-ul.vertical{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 200px;
-    background-color: #f1f1f1;
 
-}
+
 ul{
     list-style-type: none;
     margin: 0;
@@ -26,6 +20,7 @@ ul{
 }
 
 article{
+    
     background-color: khaki;
     padding: 10px;
 }
@@ -34,6 +29,10 @@ h1{
 }
 p{
     text-align: left;
+}
+
+.flexboxtext{
+    text-align: center;
 }
 
 li{
@@ -56,9 +55,15 @@ li a:hover{
 .box{
     float:left;
     width:200px;
-    height:1000px;
+    height:1010px;
     margin:10px;
-    background-color:yellowgreen;
-    min-height: 400px;
+    background-color: yellowgreen;
+    min-height: 10px;
 
+}
+
+footer{
+    background-color: rgb(255, 249, 202);
+    text-align: center;
+    
 }

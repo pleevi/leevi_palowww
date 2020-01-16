@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(102, 102, 230);
+
+}
+.container{
+    background-color: khaki;
+    
+}
+.rightcolumn{
+    align-content: right;
+}
+.bluebg{
+    background-color: rgb(185, 185, 231);
+}
