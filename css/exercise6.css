@@ -1,0 +1,42 @@
+.row{
+    margin: 30px;
+    border: 40px;
+    background-size: auto;
+    background-color: rgba(255, 255, 255, 0.493);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+}
+.font{
+    font-family: fantasy;
+}
+a{
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    text-decoration: none;
+}
+ul{
+    
+    list-style: none;
+}
+a:hover{
+    color: darkgray;
+    text-decoration: none;
+}
+body{
+    background-image: url(space.jpg);
+    background-size: 100%;
+    
+
+}
+nav{
+    font-size:40px;
+
+}
+footer{
+    margin: 30px;
+    border: 40px;
+    color:black;
+    background-color: rgba(255, 255, 255, 0.493);
+}
+
