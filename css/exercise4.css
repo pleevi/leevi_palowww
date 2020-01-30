@@ -46,10 +46,13 @@ li a{
     padding: 14px 16px;
     text-decoration: none;
 }
-link:hover{
-    font-size: large;
-}
+
 li a:hover{
+    background-color: greenyellow;
+    color:grey;
+}
+
+a:hover{
     background-color: greenyellow;
     color:grey;
 }
